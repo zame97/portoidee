@@ -36,6 +36,3 @@ in estimated seconds.
 
 ---
 
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...

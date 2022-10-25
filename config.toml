@@ -3,7 +3,7 @@ baseURL = "https://portoidee.netlify.app"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
