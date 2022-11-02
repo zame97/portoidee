@@ -11,6 +11,7 @@ Porto Idee offre:
 ## Aula Studio
 
 È un centro culturale a libero accesso per studenti universitari, con orari dal Lunedì al Venerdì dalle 9 alle 20.
+![gente-che-studia](images/gente-che-studia.jpg)
 
 ## Open Congressi
 
