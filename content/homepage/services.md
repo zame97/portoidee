@@ -21,10 +21,6 @@ PORTO IDEE è la location ideale per il tuo evento aziendale in Alessandria. Org
 ![Let us get started on a clean slate](images/workshop.jpg)
 
 
-
-***
-
-
 <!-- ## Eventi, talk e workshop
 -->
 
@@ -32,5 +28,4 @@ PORTO IDEE è la location ideale per il tuo evento aziendale in Alessandria. Org
 
 
 
----
 
